@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<layout>
+
+    <data>
+        <import type="android.view.View"/>
+        <variable
+            name="selectedQuestion"
+            type="Integer" />
+        <variable
+            name="shouldShowSumbitBtn"
+            type="Boolean" />
+        <variable
+            name="state"
+            type="kg.appsstudio.daggerparttwo.ui.MainState" />
+    </data>
+
+
+
+</layout>
+
+
+

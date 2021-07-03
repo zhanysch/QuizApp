@@ -1,4 +1,4 @@
-package kg.appsstudio.daggerparttwo.data.repository
+package kg.appsstudio.daggerparttwo.repository
 
 import io.reactivex.Flowable
 import kg.appsstudio.daggerparttwo.data.room.dao.AppDataBase
